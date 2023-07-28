@@ -1,0 +1,19 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #990000;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ff0000;
+	SCROLLBAR-SHADOW-COLOR: #cc3300;
+	SCROLLBAR-ARROW-COLOR: #000000;
+	SCROLLBAR-TRACK-COLOR: #000000;
+	SCROLLBAR-BASE-COLOR: #990000;
+	scrollbar-width: 8px;
+	scrollbar-3d-light-color: #cc0000;
+	scrollbar-dark-shadow-color: #cc3300;
+	background-color : Black;
+	text-align : center;	
+	color: Black;
+	font-size : 1px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+table{
+	border: 6px solid Silver;
+}

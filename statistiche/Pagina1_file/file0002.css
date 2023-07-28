@@ -1,0 +1,60 @@
+.mstheme {
+	navbutton-background-color: rgb(255,255,255); top-bar-button: url(bleglob1.gif)
+}
+.mstheme-topbar-font {
+	FONT-SIZE: 1px; COLOR: rgb(255,204,0); FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+BODY {
+	BACKGROUND-IMAGE: url(image001.gif); FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 24pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 18pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 14pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+H5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+H6 {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+BUTTON {
+	BORDER-RIGHT: 1pt solid; BORDER-TOP: 1pt solid; FONT-SIZE: 8pt; BORDER-LEFT: 1pt solid; BORDER-BOTTOM: 1pt solid; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+LABEL {
+	FONT-SIZE: 8pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+.MSTHEME-LABEL {
+	FONT-SIZE: 8pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+TEXTAREA {
+	BORDER-RIGHT: 1pt solid; BORDER-TOP: 1pt solid; FONT-SIZE: 8pt; BORDER-LEFT: 1pt solid; BORDER-BOTTOM: 1pt solid; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+FIELDSET {
+	BORDER-RIGHT: 1pt solid; BORDER-TOP: 1pt solid; FONT-SIZE: 8pt; BORDER-LEFT: 1pt solid; BORDER-BOTTOM: 1pt solid; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+LEGEND {
+	FONT-SIZE: 8pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+SELECT {
+	BORDER-RIGHT: 1pt solid; BORDER-TOP: 1pt solid; FONT-SIZE: 8pt; BORDER-LEFT: 1pt solid; BORDER-BOTTOM: 1pt solid; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+TABLE {
+	FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+CAPTION {
+	FONT-SIZE: 14pt; FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+TH {
+	FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica
+}
+MARQUEE {
+	FONT-SIZE: 14pt; FONT-FAMILY: "Trebuchet MS", Arial, Helvetic
+}

@@ -1,0 +1,76 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #990000;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ff0000;
+	SCROLLBAR-SHADOW-COLOR: #cc3300;
+	SCROLLBAR-ARROW-COLOR: #000000;
+	SCROLLBAR-TRACK-COLOR: #000000;
+	SCROLLBAR-BASE-COLOR: #990000;
+	scrollbar-width: 8px;
+	scrollbar-3d-light-color: #cc0000;
+	scrollbar-dark-shadow-color: #cc3300;
+	background-color : Black;
+	color : White;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	font-weight : normal;
+	font-variant : normal;
+	font-style : normal;
+	text-decoration : none;
+	text-align : justify;
+}
+hr{
+	color: #990000;
+}
+A:active {
+	COLOR: #cc0000;
+	TEXT-DECORATION: none;
+	font-weight : bold;
+	font-variant : normal;
+	font-size : 11px;
+}
+A:link {
+	COLOR: #990000 ;
+	text-decoration: none;
+	font-weight : bold;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-variant : normal;
+	font-size : 11px;
+}
+A:visited {
+	COLOR: #990000 ;
+	TEXT-DECORATION: none;
+	font-weight : bold;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-variant : normal;
+	font-size : 11px;
+}
+A:hover {
+	COLOR: #cc0000;
+	text-decoration: none;
+	font-weight : bold;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-variant : normal;
+	font-size : 11px;
+}
+.ciso{
+	background-color: #990000;
+	color : White;
+}
+ ul{
+	color: White;
+	list-style-type : square;
+	white-space : normal;
+	list-style-position : outside;
+	display : block;
+	list-style-image : url("../img/square.gif");
+	text-decoration: none;
+	font-size : 11px;
+}
+h3{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-style : normal;
+	font-weight : bold;
+	text-decoration : none;
+	font-size : 20px;
+	color : White;
+}

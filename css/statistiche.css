@@ -1,0 +1,57 @@
+body{
+	background-color: Black;
+	SCROLLBAR-FACE-COLOR: #990000;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ff0000;
+	SCROLLBAR-SHADOW-COLOR: #cc3300;
+	SCROLLBAR-ARROW-COLOR: #000000;
+	SCROLLBAR-TRACK-COLOR: #000000;
+	SCROLLBAR-BASE-COLOR: #990000;
+	scrollbar-width: 8px;
+	scrollbar-3d-light-color: #cc0000;
+	scrollbar-dark-shadow-color: #cc3300;
+}
+.xl27{
+	font-size: 9px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align:center;
+	background:red;
+}
+.xl31{
+	font-size: 9px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align:center;
+	background:#FFCC99;
+}
+.xl32{
+	font-size: 9px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align:center;
+	background:#FFFF99;
+}
+.xl33{
+	font-size: 9px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align:center;
+	background:#CCFFCC;
+}
+.xl34{
+	font-size: 9px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align:center;
+	background:#CCFFFF;
+}
+.xl35{
+	font-size: 9px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align:center;
+	background:#99CCFF;
+}
+.xl36{
+	font-size: 9px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align:center;
+	background:#CC99FF;
+}
+.xl37{
+	background: Black;
+}

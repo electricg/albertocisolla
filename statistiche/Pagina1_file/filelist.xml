@@ -1,0 +1,11 @@
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:File HRef="image001.gif"/>
+ <o:File HRef="file0002.css"/>
+ <o:File HRef="file0003.css"/>
+ <o:File HRef="image004.gif"/>
+ <o:File HRef="image005.gif"/>
+ <o:File HRef="image006.gif"/>
+ <o:File HRef="file0007.css"/>
+ <o:MainFile HRef="../Pagina1.htm"/>
+ <o:File HRef="filelist.xml"/>
+</xml>
